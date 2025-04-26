@@ -9,9 +9,19 @@ Exploratory Data Analysis and classification modeling using the Wisconsin Breast
 - `Paper/` – Research papers and references
 - `requirements.txt` – Python dependencies
 
+
 ## 🚀 Setup
 
-```bash
 python -m venv .venv
-source venv/bin/activate  # or .venv\Scripts\activate on Windows
+
+# On Windows
+venv\Scripts\activate
+
 pip install -r requirements.txt
+
+## Citations
+Markelle Kelly, Rachel Longjohn, Kolby Nottingham,
+The UCI Machine Learning Repository, https://archive.ics.uci.edu
+
+Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B.
+
