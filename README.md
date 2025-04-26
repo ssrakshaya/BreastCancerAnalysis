@@ -20,7 +20,6 @@ It compares the performance of different machine learning models, including Deci
    ```bash
    python -m venv venv
 
-
 ## Citations
 Markelle Kelly, Rachel Longjohn, Kolby Nottingham,
 The UCI Machine Learning Repository, https://archive.ics.uci.edu
