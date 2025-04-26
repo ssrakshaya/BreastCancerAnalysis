@@ -1,23 +1,25 @@
-# Honors Breast Cancer Analysis
+# 🎗️ Honors Breast Cancer Analysis
 
-Exploratory Data Analysis and classification modeling using the Wisconsin Breast Cancer dataset.
+This project conducts Exploratory Data Analysis (EDA) and classification modeling using the **Wisconsin Breast Cancer** dataset from the UCI Machine Learning Repository.  
+It compares the performance of different machine learning models, including Decision Trees, Random Forests, and Multi-Layer Perceptrons (MLP), to predict tumor classifications.
 
-## 📁 Structure
+---
 
-- `notebooks/` – Jupyter notebooks for data exploration
-- `data/` – Raw datasets
-- `Paper/` – Research papers and references
-- `requirements.txt` – Python dependencies
+## 📁 Project Structure
 
+- `notebooks/` – Jupyter notebooks for data exploration and modeling
+- `data/` – Raw datasets used in the project
+- `Paper/` – Research papers and supporting references
+- `requirements.txt` – Python dependencies for reproducibility
 
-## 🚀 Setup
+---
 
-python -m venv .venv
+## 🚀 Setup Instructions
 
-# On Windows
-venv\Scripts\activate
+1. Create a virtual environment:
+   ```bash
+   python -m venv venv
 
-pip install -r requirements.txt
 
 ## Citations
 Markelle Kelly, Rachel Longjohn, Kolby Nottingham,
