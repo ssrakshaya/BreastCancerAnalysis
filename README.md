@@ -1,4 +1,4 @@
-# 🎗️ Honors Breast Cancer Analysis
+# 🎗️ Breast Cancer Analysis
 
 This project conducts Exploratory Data Analysis (EDA) and classification modeling using the **Wisconsin Breast Cancer** dataset from the UCI Machine Learning Repository.  
 It compares the performance of different machine learning models, including Decision Trees, Random Forests, and Multi-Layer Perceptrons (MLP), to predict tumor classifications.
